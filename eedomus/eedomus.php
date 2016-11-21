@@ -4,7 +4,7 @@
  * for version up to 1.2.0
  */
 
-$apikey = "YourGoogleAPIKEY";
+$apikey = "YourFirebaseToken";
 $deviceIds = array();
 // Add your GCM IDs below
 $deviceIds[] = "MyFirstGCMDeviceID";
