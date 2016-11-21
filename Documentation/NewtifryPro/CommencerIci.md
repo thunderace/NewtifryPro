@@ -24,3 +24,6 @@ Pour envoyer un message à votre appareil, il faut obtenir son identifiant : Dan
 Pour ce premier envoi, nous allons utiliser l'API PHP. Télécharger l'API PHP à cette adresse : https://github.com/thunderace/NewtifryPro-php
 Dans le fichier example.php, remplacer *YourGoogleAPIKEY* par le jeton obtenu à l'étape 1 et remplacer *MyFirstGCMDeviceID* par l'identifiant de l'appareil que vous avez reçu par mail.
 Il ne reste plus quà exécuter : php example.php. après quelques secondes à quelques minutes de patience, vous allez recevoir le message sur votre appareil.
+
+L'API est disponible en PHP, NodeJS. Des plugins existent pour jeedom et node-RED. Un exemple pour arduino est également disponible dans ce repository.
+L'API pour accéder à l'interface SMS de NewtifryPro est également disponible.
