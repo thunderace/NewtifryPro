@@ -3,7 +3,7 @@
 // install withWebServer.php and NewtifryPro.php on a web server
 // replace "YourFirebaseToken" by your Firebase Token (old APIKEY)
 // replace "MyFirstGCMDeviceID" by your DeviceID
-// call http://YOUWEBSERVERPATH/withWebserver.php?source=The+Source&title=The+Title&message=The+Message&priority=1 etc...
+// call http://YOURWEBSERVERPATH/eedomus.php?source=The+Source&title=The+Title&message=The+Message&priority=1 etc...
 
 $apikey = "YourFirebaseToken";
 $deviceIds = array();
