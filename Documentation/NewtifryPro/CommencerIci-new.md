@@ -10,7 +10,7 @@ Ces deux éléments sont fournis par Google.
 Rendez vous dans la [console Google Cloud Platform](https://console.cloud.google.com/) :
   * Cliquez sur *Sélectionner un projet* (en haut à gauche de l'écran, à droite fde 'Google cloud Platform'), cliquez sur le '+', entrez un nom pour votre projet (nptutorial dans notre cas) et cliquez sur *Créer*
   * Patientez le temps de la création du projet par Google...
-  * Lorsque le projet sera créé, il apparaitra dans la liste en haut à gauche, le senderID est le numéro de votre projet et se trouve sur la page d'accueil dans le cadre *Informations sur le proje*
+  * Lorsque le projet sera créé, il apparaitra dans la liste en haut à gauche, le senderID est le numéro de votre projet et se trouve sur la page d'accueil dans le cadre *Informations sur le projet*,
   * Allez dans *APIs & Services/Bibliothèque*, chercher le service *Google Cloud Messaging*, cliquez dessus et cliquez sur *Activer*,
   * Allez dans *APIs & Identifiants*, cliquez sur *Créer des identifiants* et choisissez *Clé API*, une ligne 'Clé API 1' doit apparaitre, copiez la clé, c'est la clé d'identification qui sera utilisée pour envoyer les messages,
 
