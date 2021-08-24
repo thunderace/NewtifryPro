@@ -1,5 +1,5 @@
 # NewtifryPro
-Global repo for all NewtifryPro realted stuff
+Global repo for all NewtifryPro related stuff
 
 ### Configure NewtifryPro
   [See here](https://github.com/thunderace/NewtifryPro/blob/master/Documentation/NewtifryPro/StartHere.md)
