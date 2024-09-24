@@ -1,17 +1,15 @@
 # NewtifryPro
 Global repo for all NewtifryPro related stuff
 
-### Configure NewtifryPro
-  [See here](https://github.com/thunderace/NewtifryPro/blob/master/Documentation/NewtifryPro/StartHere.md)
+### Build NewtifryPro V3 for android
+  [See here](https://github.com/thunderace/NewtifryPro3)
   
-### Configurer NewtifryPro
-  [Voir ici](https://github.com/thunderace/NewtifryPro/blob/master/Documentation/NewtifryPro/CommencerIci.md)
+### Générer NewtifryPro V3 pour android
+  [Voir ici](https://github.com/thunderace/NewtifryPro3)
 
-### Send a message to your Android device
-There are PHP, node, Arduino scripts at the top of this repository.
-The eedomus script is a work in progress (with Alain help).
+### Send a message to your Android device with NodeJS
+  [See here](https://github.com/thunderace/NewtifryPro-node)
 
-### envoyer un message à votre appareil Android
-Il y a des scripts PHP, NodeJS et Arduino dans ce repository.
-Le script eedomus est en cous de finalisation (avec l'aide d'Alain).
-  
+### envoyer un message à votre appareil Android avec NodeJS
+  [Voir ici](https://github.com/thunderace/NewtifryPro-node)
+
